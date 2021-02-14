@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="sixteenth_note_stem_up" Width="24.386" Height="45">
+  <Canvas.Resources/>
+  <Canvas Name="g16559">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="-393.8446" Y="-234.1771"/>
+    </Canvas.RenderTransform>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path16482" Fill="Red" StrokeThickness="0.2" StrokeMiterLimit="4" Opacity="0.9">
+      <Path.Data>
+        <PathGeometry Figures="M 398.2646 268.99008 C 394.86876 270.81005 393.05932 274.10463 394.17238 276.58304 C 395.35964 279.22668 399.43939 279.97276 403.27896 278.24841 C 407.11852 276.52405 409.27112 272.97901 408.08386 270.33538 C 406.89659 267.69174 402.81685 266.94566 398.97728 268.67001 C 398.73731 268.77778 398.491 268.86875 398.2646 268.99008 z " FillRule="EvenOdd"/>
+      </Path.Data>
+    </Path>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path16484" StrokeThickness="1.5" Stroke="Red" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+      <Path.Data>
+        <PathGeometry Figures="M 407.8821 271.76459 L 407.8821 234.92702" FillRule="EvenOdd"/>
+      </Path.Data>
+    </Path>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path16486" Fill="Red" StrokeThickness="1" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+      <Path.Data>
+        <PathGeometry Figures="M 407.37745 235.63686 C 406.81495 241.94936 412.22 244.2106 414.87745 247.13686 C 417.40341 249.91833 418.32612 253.12658 418.22293 256.13246 C 418.19538 256.93503 417.9775 260.41257 415.60848 263.89918 C 418.7764 255.15207 415.82695 251.64112 412.94552 248.8476 C 409.45558 245.46414 406.8594 242.27542 407.37745 235.63686 z " FillRule="EvenOdd"/>
+      </Path.Data>
+    </Path>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path16488" Fill="Red" StrokeThickness="1" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+      <Path.Data>
+        <PathGeometry Figures="M 407.14399 241.67087 C 406.58149 247.98337 411.98654 250.24461 414.64399 253.17087 C 417.16995 255.95234 418.09266 259.16059 417.98947 262.16647 C 417.96192 262.96904 417.74404 266.44658 415.37502 269.93319 C 418.54294 261.18608 415.59349 257.67513 412.71206 254.88161 C 409.22212 251.49815 406.62594 248.30943 407.14399 241.67087 z " FillRule="EvenOdd"/>
+      </Path.Data>
+    </Path>
+  </Canvas>
+  <Canvas.RenderTransform>
+    <TransformGroup>
+      <TranslateTransform X="0" Y="2.25" />
+      <ScaleTransform ScaleX="1" ScaleY="1.1" />
+    </TransformGroup>
+  </Canvas.RenderTransform>
+</Canvas>

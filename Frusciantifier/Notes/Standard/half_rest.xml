@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="half_rest" Width="210" Height="297" Grid.ColumnSpan="12" Margin="3,4,15,-186" Grid.RowSpan="19">
+  <Canvas.Resources/>
+  <Canvas Name="layer1">
+    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="61.988094" Canvas.Top="131.53571" Width="78.619049" Height="30.238094" Name="rect61" Fill="#FF000000" StrokeThickness="0.264583"/>
+    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="101.29762" Canvas.Top="152.70239" Width="9.0714283" Height="1.5119048" Name="rect63" Fill="#FF000000" StrokeThickness="0.264583"/>
+  </Canvas>
+  <Canvas.RenderTransform>
+    <TransformGroup>
+      <TranslateTransform X="0" Y="0" />
+      <ScaleTransform ScaleX="0.25" ScaleY="0.25" />
+    </TransformGroup>
+  </Canvas.RenderTransform>
+</Canvas>

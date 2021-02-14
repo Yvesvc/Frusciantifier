@@ -1,0 +1,24 @@
+﻿<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="half_note_stem_up" Width="14.566" Height="41.919998">
+  <Canvas.Resources/>
+  <Canvas Name="g10997">
+    <Canvas.RenderTransform>
+      <MatrixTransform Matrix="-1 0 0 -1 247.8306 258.8548"/>
+    </Canvas.RenderTransform>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path10999" Fill="#FF000000" StrokeThickness="0.2" StrokeMiterLimit="4" Opacity="0.9">
+      <Path.Data>
+        <PathGeometry Figures="M 237.68484 218.18353 C 234.289 220.0035 232.47956 223.29808 233.59262 225.77649 C 234.77988 228.42013 238.85963 229.16621 242.6992 227.44186 C 246.53876 225.7175 248.69136 222.17246 247.5041 219.52883 C 246.31683 216.88519 242.23709 216.13911 238.39752 217.86346 C 238.15755 217.97123 237.91124 218.0622 237.68484 218.18353 z M 238.79457 220.42569 C 239.0358 220.30136 239.28005 220.20766 239.53576 220.09282 C 242.80883 218.62288 245.96997 218.55375 246.59187 219.93851 C 247.21377 221.32327 245.06209 223.64013 241.78902 225.11008 C 238.51594 226.58002 235.3548 226.64915 234.73291 225.26439 C 234.15959 223.98781 235.94804 221.89278 238.79457 220.42569 z " FillRule="EvenOdd"/>
+      </Path.Data>
+    </Path>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path11001" StrokeThickness="1.5" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+      <Path.Data>
+        <PathGeometry Figures="M 234.05234 224.51692 L 234.05234 258.10449" FillRule="EvenOdd"/>
+      </Path.Data>
+    </Path>
+  </Canvas>
+  <Canvas.RenderTransform>
+    <TransformGroup>
+      <TranslateTransform X="-0.75" Y="1.75" />
+      <ScaleTransform ScaleX="1" ScaleY="1.2" />
+    </TransformGroup>
+  </Canvas.RenderTransform>
+</Canvas>

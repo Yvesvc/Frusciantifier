@@ -1,0 +1,22 @@
+[
+  {
+    "Duration": 2.0,
+    "Time": 0.25,
+    "Degree": 65
+  },
+  {
+    "Duration": 2.0,
+    "Time": 0.5,
+    "Degree": 72
+  },
+  {
+    "Duration": 2.0,
+    "Time": 0.5,
+    "Degree": 69
+  },
+  {
+    "Duration": 2.0,
+    "Time": 1.0,
+    "Degree": 74
+  }
+]

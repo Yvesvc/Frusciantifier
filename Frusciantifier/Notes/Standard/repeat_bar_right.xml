@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="svg2" Width="1.864" Height="6.6639997">
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path8" Fill="Black">
+    <Path.Data>
+      <PathGeometry Figures="M 0 0 C 0 31 25 56 56 56 87 56 112 31 112 0 112 -31 87 -56 56 -56 25 -56 0 -31 0 0 Z" FillRule="NonZero"/>
+    </Path.Data>
+    <Path.RenderTransform>
+      <MatrixTransform Matrix="0.004 0 0 -0.004 0.024 2.8319997"/>
+    </Path.RenderTransform>
+  </Path>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path10"  Fill="Black">
+    <Path.Data>
+      <PathGeometry Figures="M 0 0 C 0 31 25 56 56 56 87 56 112 31 112 0 112 -31 87 -56 56 -56 25 -56 0 -31 0 0 Z"/>
+    </Path.Data>
+    <Path.RenderTransform>
+      <MatrixTransform Matrix="0.004 0 0 -0.004 0.024 3.8319997"/>
+    </Path.RenderTransform>
+  </Path>
+  <Canvas Name="g12">
+    <Canvas.RenderTransform>
+      <MatrixTransform Matrix="-1 0 0 1 -32.6924 -4.2893003"/>
+    </Canvas.RenderTransform>
+    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="0" Canvas.Top="-2" Width="0.60000002" Height="4" RadiusY="0.0000" RadiusX="0.0000" Name="rect14" Fill="Black">
+      <Rectangle.RenderTransform>
+        <TranslateTransform X="-34.5564" Y="7.6213"/>
+      </Rectangle.RenderTransform>
+    </Rectangle>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path16" Fill="Black">
+      <Path.Data>
+        <PathGeometry Figures="m 450 333 c 9 0 16 -8 16 -16 0 -3 -1 -6 -3 -9 C 364 164 248 -56 75 -56 l -75 0 0 87 c 0 14 11 25 25 25 l 50 0 c 159 0 271 136 362 270 3 4 8 7 13 7 z" FillRule="NonZero"/>
+      </Path.Data>
+      <Path.RenderTransform>
+        <MatrixTransform Matrix="0.004 0 0 -0.004 -34.5564 5.6213"/>
+      </Path.RenderTransform>
+    </Path>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path18" Fill="Black">
+      <Path.Data>
+        <PathGeometry Figures="m 466 -317 c 0 -8 -7 -16 -16 -16 -5 0 -10 3 -13 7 -91 134 -203 270 -362 270 l -50 0 C 11 -56 0 -45 0 -31 l 0 87 75 0 c 173 0 289 -220 388 -364 2 -3 3 -6 3 -9 z" FillRule="NonZero"/>
+      </Path.Data>
+      <Path.RenderTransform>
+        <MatrixTransform Matrix="0.004 0 0 -0.004 -34.5564 9.6213"/>
+      </Path.RenderTransform>
+    </Path>
+  </Canvas>
+  <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="0" Canvas.Top="-2" Width="0.19" Height="4" RadiusY="0.0000" RadiusX="0.0000" Name="rect20" Fill="Black">
+    <Rectangle.RenderTransform>
+      <TranslateTransform X="0.774" Y="3.3319997"/>
+    </Rectangle.RenderTransform>
+  </Rectangle>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path22"  Fill="Black">
+    <Path.Data>
+      <PathGeometry Figures="M 0 0 C 0 31 25 56 56 56 87 56 112 31 112 0 112 -31 87 -56 56 -56 25 -56 0 -31 0 0 Z" FillRule="NonZero"/>
+    </Path.Data>
+    <Path.RenderTransform>
+      <MatrixTransform Matrix="0.004 0 0 -0.004 0.024 4.8319997"/>
+    </Path.RenderTransform>
+  </Path>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path28" Fill="Black">
+    <Path.Data>
+      <PathGeometry Figures="M 0 0 C 0 31 25 56 56 56 87 56 112 31 112 0 112 -31 87 -56 56 -56 25 -56 0 -31 0 0 Z" FillRule="NonZero"/>
+    </Path.Data>
+    <Path.RenderTransform>
+      <MatrixTransform Matrix="0.004 0 0 -0.004 0.024 1.8319997"/>
+    </Path.RenderTransform>
+  </Path>
+  <Canvas.RenderTransform>
+    <TransformGroup>
+      <TranslateTransform X="0" Y="0" />
+      <ScaleTransform ScaleX="7.5" ScaleY="7.5" />
+    </TransformGroup>
+  </Canvas.RenderTransform>
+</Canvas>
